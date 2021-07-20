@@ -10,11 +10,11 @@
   "author": "Jeremias Andris",
   "license": "MIT",
   "dependencies": {
-    "jean-amd": "1.0.3",
-    "jean-failure": "^1.0.1",
-    "jean-inheritance": "^1.0.4",
-    "jean-interface": "^1.1.0",
-    "jean-type-check": "^1.5.2"
+    "jean-amd": "https://github.com/je-an/jean-amd",
+    "jean-failure": "https://github.com/je-an/jean-failure",
+    "jean-inheritance": "https://github.com/je-an/jean-inheritance",
+    "jean-interface": "https://github.com/je-an/jean-interface",
+    "jean-type-check": "https://github.com/je-an/jean-type-check"
   },
   "repository": {
     "type": "git",
